@@ -1,4 +1,4 @@
-''' #What are two pointers
+#What are two pointers
 #Two pointers means we use two variables to keep track of positions(indexes) in an array/ string
 
 #usually we call them
@@ -257,7 +257,7 @@ print(water)
 # so left_max and _right_max are the largest walls encountered so far
 
 **********************************************************************************************************************************
-'''
+
 
   
 
