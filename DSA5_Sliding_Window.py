@@ -1,5 +1,4 @@
-
-'''#Sliding Window
+#Sliding Window
 #Maximum Sum Subarray of Size K
 #find maximum sum of 3 consecutiuve elements
 #nums=[2,1,5,1,3,2]
@@ -395,7 +394,6 @@ else:
 
 
 ***************************************************************************************************************************************
-'''
 
 
 
