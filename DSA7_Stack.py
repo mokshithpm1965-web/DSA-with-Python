@@ -1,4 +1,4 @@
-'''#Stack
+#Stack
 #Valid Parentheses
 #Min stack
 #Evaluate Reverse Polish  Notation
@@ -338,7 +338,7 @@ print(carFleet(target,position,speed))
 #reverse tells the sortbto sort the list in decending order
 
 *************************************************************************************************************************************************
-'''
+
 
 ##Longest Rectangle  in Histogram
 #The Longest Rectangle in Histogram problem asks us to find the largest rectangular area that can be formed inside a histogram
@@ -413,7 +413,7 @@ print(largestRectangleArea(heights))
 
 #of the histogram  so we need to calculate width ,  width =len(heights)-i  4-1 =3 h=4 , w=3  a 4*3
 #stack does  not contain poped elements ,so we calculate  width of unpoped bars in the stack
-3
+
 
 
 
