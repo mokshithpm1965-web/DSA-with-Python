@@ -1,4 +1,4 @@
-'''#Binary search
+#Binary search
 #Binary search is an algorithm used to efficiently find an  element in a sorted arry
 #list must be sorted
 #instead of checking every element one by one , Binary search checks the middle element and eleminates half of  the remaining search area
@@ -919,7 +919,6 @@ print(split_array(nums,k))
 
 *******************************************************************************************************************************************************************************************************************
 
-'''
 
 
 
