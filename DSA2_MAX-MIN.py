@@ -1,6 +1,4 @@
- 
 #Finding Maximum and minimum elements
-'''
 #Finding Maximum element in an Array
 arr=[25,10,45,5,30]
 #Find the largest number
@@ -995,7 +993,7 @@ else:
     #second loop stops the i loop
 
 ******************************************
-'''
+
 
 
 
