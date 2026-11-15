@@ -1,5 +1,4 @@
 #INSTRODUCTION  TO DSA
-'''
 #A data structure is a way of organizing data so it can be used efficiently
 #Books scattered on the floor  hard to find
 #Books arranged on a bookshelf easy to find
@@ -671,7 +670,6 @@ example
 #i=2
 #arr[i]=arr[2]=30
 
-'''''
 
 
 
